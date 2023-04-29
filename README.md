@@ -12,6 +12,7 @@ I will post my solutions to the problems on it.🌱
 
 Type|Direct code|CSDN solutions|Date|note
 ---|---|---|---|---
+Offer|[0207](https://github.com/link-hy/Algorithm_LeetCode/blob/master/Offer/0207.java) | [0207. 链表相交](https://blog.csdn.net/weixin_42204569/article/details/130436425) | April 28, 23
 problem|[19](https://github.com/link-hy/Algorithm_LeetCode/blob/master/Code/c19.java) | [19. 删除链表的倒数第 N 个结点](https://blog.csdn.net/weixin_42204569/article/details/130411756) | April 27, 23
 problem|[24](https://github.com/link-hy/Algorithm_LeetCode/blob/master/Code/c24.java) | [24. 两两交换链表中的节点](https://blog.csdn.net/weixin_42204569/article/details/130381985) | April 26, 23
 problem|[206](https://github.com/link-hy/Algorithm_LeetCode/blob/master/Code/c206.java) | [206. 反转链表](https://blog.csdn.net/weixin_42204569/article/details/130376121) | April 26, 23
